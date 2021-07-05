@@ -104,3 +104,8 @@ ul{
     text-align: left;
   }
 }
+
+#errormsg{
+  color: #F00;
+  display: none;
+}
